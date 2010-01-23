@@ -1,0 +1,10 @@
+#!version 2.2.6
+surface
+#!parameters:
+#!variables:
+#!Init:
+	return            
+#!Code:
+	movevv            	Oi Os
+	mulvv             	Ci Oi Cs
+	return            
